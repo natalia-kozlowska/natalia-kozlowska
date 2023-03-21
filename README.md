@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 |     1|               |
 |     2|               |
 |     3|               |
+
+
+
+This site was built using [GitHub Pages](https://github.com/natalia-kozlowska/Portfolio-Guide).
